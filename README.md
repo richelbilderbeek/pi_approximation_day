@@ -17,3 +17,11 @@ Event will take place: YES.
 ![Gathering location](map.png)
 
 ![Pi Approximation Day 2018](pi_approximation_day_2017.jpg)
+
+## FAQ
+
+### How to listen to the digits of pi?
+
+```
+cat pi.txt | espeak -s 10 -g 10
+```
