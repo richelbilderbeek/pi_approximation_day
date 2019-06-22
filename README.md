@@ -58,59 +58,59 @@ The text in the article, however, is complete nonsense.
 
 Here are the photos, thanks to C.IJ.
 
-![](pics/RC_PiApproximationDay2017_1.jpg)
-![](pics/RC_PiApproximationDay2017_2.jpg)
-![](pics/RC_PiApproximationDay2017_3.jpg)
-![](pics/RC_PiApproximationDay2017_4.jpg)
-![](pics/RC_PiApproximationDay2017_5.jpg)
-![](pics/RC_PiApproximationDay2017_6.jpg)
-![](pics/RC_PiApproximationDay2017_7.jpg)
-![](pics/RC_PiApproximationDay2017_8.jpg)
-![](pics/RC_PiApproximationDay2017_9.jpg)
-![](pics/RC_PiApproximationDay2017_10.jpg)
-![](pics/RC_PiApproximationDay2017_11.jpg)
-![](pics/RC_PiApproximationDay2017_12.jpg)
-![](pics/RC_PiApproximationDay2017_13.jpg)
+![](pics/2017_1.jpg)
+![](pics/2017_2.jpg)
+![](pics/2017_3.jpg)
+![](pics/2017_4.jpg)
+![](pics/2017_5.jpg)
+![](pics/2017_6.jpg)
+![](pics/2017_7.jpg)
+![](pics/2017_8.jpg)
+![](pics/2017_9.jpg)
+![](pics/2017_10.jpg)
+![](pics/2017_11.jpg)
+![](pics/2017_12.jpg)
+![](pics/2017_13.jpg)
 
 ## 2016
 
 Since 2012, I celebrate Pi Approximation Day by approximating pi with streetchalk at the Noorderplantsoen Groningen. 
 This year I was helped by C.IJ. and we reached approximately 150 (nice) - 200 (sloppy) digits behind the comma.
 
-![](pics/RC_PiApproximationDay2016_1.jpg")
-![](pics/RC_PiApproximationDay2016_2.jpg")
-![](pics/RC_PiApproximationDay2016_3.jpg")
-![](pics/RC_PiApproximationDay2016_4.jpg")
-![](pics/RC_PiApproximationDay2016_5.jpg")
-![](pics/RC_PiApproximationDay2016_6.jpg")
-![](pics/RC_PiApproximationDay2016_7.jpg")
-![](pics/RC_PiApproximationDay2016_8.jpg")
+![](pics/2016_1.jpg")
+![](pics/2016_2.jpg")
+![](pics/2016_3.jpg")
+![](pics/2016_4.jpg")
+![](pics/2016_5.jpg")
+![](pics/2016_6.jpg")
+![](pics/2016_7.jpg")
+![](pics/2016_8.jpg")
 
 ## 2015
 
 Since 2012, I celebrate Pi Approximation Day by approximating pi with streetchalk at the Noorderplantsoen Groningen. 
 This year I was helped by C.IJ. and we reached exactly 314 digits behind the comma.
 
-![](pics/RC_PiApproximationDay2015_1.jpg)
-![](pics/RC_PiApproximationDay2015_2.jpg)
-![](pics/RC_PiApproximationDay2015_3.jpg)
-![](pics/RC_PiApproximationDay2015_4.jpg)
-![](pics/RC_PiApproximationDay2015_5.jpg)
-![](pics/RC_PiApproximationDay2015_6.jpg)
-![](pics/RC_PiApproximationDay2015_7.jpg)
-![](pics/RC_PiApproximationDay2015_8.jpg)
-![](pics/RC_PiApproximationDay2015_9.jpg)
+![](pics/2015_1.jpg)
+![](pics/2015_2.jpg)
+![](pics/2015_3.jpg)
+![](pics/2015_4.jpg)
+![](pics/2015_5.jpg)
+![](pics/2015_6.jpg)
+![](pics/2015_7.jpg)
+![](pics/2015_8.jpg)
+![](pics/2015_9.jpg)
 
 ## 2014
 
 Since 2012, I celebrate Pi Approximation Day by approximating pi with streetchalk at the Noorderplantsoen Groningen. This year I reached
 exactly 100 digits behind the comma. 
 
-![](pics/RC_PiApproximationDay2014_1.jpg)
-![](pics/RC_PiApproximationDay2014_2.jpg)
-![](pics/RC_PiApproximationDay2014_3.jpg)
-![](pics/RC_PiApproximationDay2014_4.jpg)
-![](pics/RC_PiApproximationDay2014_5.png)
+![](pics/2014_1.jpg)
+![](pics/2014_2.jpg)
+![](pics/2014_3.jpg)
+![](pics/2014_4.jpg)
+![](pics/2014_5.png)
 
 ## 2013
 
@@ -121,30 +121,30 @@ In 2013, a local newspaper found out:
 
 Thanks to the people that found out this article was written!
 
-![](pics/RC_PiApproximationDay2013_1.jpg)
-![](pics/RC_PiApproximationDay2013_2.jpg)
-![](pics/RC_PiApproximationDay2013_3.jpg)
-![](pics/RC_PiApproximationDay2013_4.jpg)
-![](pics/RC_PiApproximationDay2013_5.jpg)
-![](pics/RC_PiApproximationDay2013_6.jpg)
-![](pics/RC_PiApproximationDay2013_7.jpg)
-![](pics/RC_PiApproximationDay2013_8.jpg)
-![](pics/RC_PiApproximationDay2013_9.jpg)
+![](pics/2013_1.jpg)
+![](pics/2013_2.jpg)
+![](pics/2013_3.jpg)
+![](pics/2013_4.jpg)
+![](pics/2013_5.jpg)
+![](pics/2013_6.jpg)
+![](pics/2013_7.jpg)
+![](pics/2013_8.jpg)
+![](pics/2013_9.jpg)
 
 ## 2012
 
 2012 was the first your I celebrated Pi Approximation Day 
 by approximating pi with streetchalk at the Noorderplantsoen Groningen.
 
-![](pics/RC_PiApproximationDay2012_1.jpg)
-![](pics/RC_PiApproximationDay2012_2.jpg)
-![](pics/RC_PiApproximationDay2012_3.jpg)
-![](pics/RC_PiApproximationDay2012_4.jpg)
-![](pics/RC_PiApproximationDay2012_5.jpg)
-![](pics/RC_PiApproximationDay2012_6.jpg)
-![](pics/RC_PiApproximationDay2012_7.jpg)
-![](pics/RC_PiApproximationDay2012_8.jpg)
-![](pics/RC_PiApproximationDay2012_9.jpg)
+![](pics/2012_1.jpg)
+![](pics/2012_2.jpg)
+![](pics/2012_3.jpg)
+![](pics/2012_4.jpg)
+![](pics/2012_5.jpg)
+![](pics/2012_6.jpg)
+![](pics/2012_7.jpg)
+![](pics/2012_8.jpg)
+![](pics/2012_9.jpg)
 
 ## FAQ
 
