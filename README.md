@@ -1,5 +1,9 @@
 # Pi Approximation Day
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/pi_approximation_day.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pi_approximation_day)
+
 Since 2012, I celebrate Pi Approximation Day by approximating pi 
 with streetchalk at the Noorderplantsoen Groningen.
 
