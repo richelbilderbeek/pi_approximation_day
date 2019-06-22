@@ -36,7 +36,7 @@ We were with:
 
 We approximated 500 digits of pi, breaking all earlier records!
 
-### [https://www.sikkom.nl](Sikkom)
+### [Sikkom](https://www.sikkom.nl)
 
  * [Sikkom news item](https://www.sikkom.nl/bier-jonkos-tag-foutje-pi-benaderingsdag-gevierd-in-noorderplantsoen/)
 
@@ -79,14 +79,14 @@ Here are the photos, thanks to C.IJ.
 Since 2012, I celebrate Pi Approximation Day by approximating pi with streetchalk at the Noorderplantsoen Groningen. 
 This year I was helped by C.IJ. and we reached approximately 150 (nice) - 200 (sloppy) digits behind the comma.
 
-![](pics/2016_1.jpg")
-![](pics/2016_2.jpg")
-![](pics/2016_3.jpg")
-![](pics/2016_4.jpg")
-![](pics/2016_5.jpg")
-![](pics/2016_6.jpg")
-![](pics/2016_7.jpg")
-![](pics/2016_8.jpg")
+![](pics/2016_1.jpg)
+![](pics/2016_2.jpg)
+![](pics/2016_3.jpg)
+![](pics/2016_4.jpg)
+![](pics/2016_5.jpg)
+![](pics/2016_6.jpg)
+![](pics/2016_7.jpg)
+![](pics/2016_8.jpg)
 
 ## 2015
 
@@ -126,7 +126,6 @@ Thanks to the people that found out this article was written!
 ![](pics/2013_1.jpg)
 ![](pics/2013_2.jpg)
 ![](pics/2013_3.jpg)
-![](pics/2013_4.jpg)
 ![](pics/2013_5.jpg)
 ![](pics/2013_6.jpg)
 ![](pics/2013_7.jpg)
