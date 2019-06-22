@@ -21,7 +21,7 @@ which will be displayed in the status indicator here:
 2019: Yes
 ```
 
-![Gathering location](map.png)
+![Gathering location](pics/map.png)
 
 ## 2018
 
