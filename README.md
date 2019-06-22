@@ -36,9 +36,11 @@ We were with:
 
 We approximated 500 digits of pi, breaking all earlier records!
 
-### [www.sikkom.nl](Sikkom)
+### [https://www.sikkom.nl](Sikkom)
 
  * [Sikkom news item](https://www.sikkom.nl/bier-jonkos-tag-foutje-pi-benaderingsdag-gevierd-in-noorderplantsoen/)
+
+Photo's from the Sikkom news item:
 
 ![Pi Approximation Day, photo by sikkom.nl](pics/2018_sikkom_1.jpg)
 
