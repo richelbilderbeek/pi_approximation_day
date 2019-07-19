@@ -19,6 +19,8 @@ which will be displayed in the status indicator here:
 
 ```
 2019: Yes
+
+Last update: 2019-07-19 14:36
 ```
 
 ![Gathering location](pics/map.png)
