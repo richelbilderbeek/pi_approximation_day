@@ -18,9 +18,9 @@ If it is raining, at 4:00 AM, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2019: Yes
+2019: Yes, definitely!
 
-Last update: 2019-07-19 14:36
+Last update: 2019-07-21 22:02
 ```
 
 ![Gathering location](pics/map.png)
