@@ -18,19 +18,28 @@ If it is raining, at 4:00 AM, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2019: Yes, definitely!
-
-Last update: 2019-07-21 22:02
+2020: Probably yes
 ```
 
 ![Gathering location](pics/map.png)
+
+## 2019
+
+We were with: 
+
+ * J.D.  
+ * S.D.
+ * V.D
+ * W.D
+
+We approximated 447 digits of pi.
 
 ## 2018
 
 We were with: 
 
  * B. S-B.
- * J.?.  
+ * J.D.  
  * M.B.
  * P. S-B.
  * R. B.
@@ -156,7 +165,35 @@ by approximating pi with streetchalk at the Noorderplantsoen Groningen.
 Due to this unorthodox hour, we can work relatively undisturbed. 
 It is the KNMI time of sunrise, which means that there will be light to see. 
 
+### How long does it take?
+
+At the first of any of these conditions:
+
+ * We've gone round the pond once
+ * Out of street chalk
+ * Not enjoying it anymore
+
+With 5 people, it takes one and a half hour to get round the pond.
+
+### How much street chalk do you need?
+
+To go round the pond once, one needs approx five boxes of street chalk.
+
 ### How to listen to the digits of pi?
+
+On Linux, install pi:
+
+```
+sudo apt-get install pi
+```
+
+then:
+
+```
+pi 2000 | espeak -s 10 -g 10
+```
+
+Or read out the text file:
 
 ```
 cat pi.txt | espeak -s 10 -g 10
