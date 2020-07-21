@@ -18,7 +18,7 @@ If it is raining, at 4:00 AM, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2020: Probably yes
+2020: 100% sure that pi will be approximated!
 ```
 
 ![Gathering location](pics/map.png)
