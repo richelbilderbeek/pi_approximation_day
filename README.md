@@ -1,9 +1,5 @@
 # Pi Approximation Day
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
----|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/pi_approximation_day.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pi_approximation_day)
-
 Since 2012, I celebrate Pi Approximation Day by approximating pi 
 with streetchalk at the Noorderplantsoen Groningen.
 
@@ -18,10 +14,14 @@ If it is raining, at 4:00 AM, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2020: 100% sure that pi will be approximated!
+2021: probably yes
 ```
 
 ![Gathering location](pics/map.png)
+
+## 2020
+
+I celebrated it alone this year, for 40 digits :+1:.
 
 ## 2019
 
