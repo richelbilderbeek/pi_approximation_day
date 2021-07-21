@@ -15,7 +15,7 @@ If it is raining, at 4:00 AM, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2021: probably yes
+2021: yes
 ```
 
 ![Gathering location](pics/map_uppsala.png)
