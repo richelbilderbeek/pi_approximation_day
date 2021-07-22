@@ -11,14 +11,34 @@ with streetchalk.
  * To bring: a box of street chalk, knee protectors are recommended
  * Costs: a box of street chalk :-)
 
-If it is raining, at 4:00 AM, the event will be cancelled, 
+If rain is predicted, at 22:00 the day before, the event will be cancelled, 
 which will be displayed in the status indicator here:
 
 ```
-2021: yes
+2022: probably yes
 ```
 
 ![Gathering location](pics/map_uppsala.png)
+
+## 2021
+
+I celebrated it alone this year, for the first time in Uppsala, 
+for 62 digits, which I did twice :+1:.
+
+Took me only half an hour and a third of a bucket of streetchalk, 
+as the concrete is smooth.
+
+![](2021_1.jpg)
+
+![](2021_2.jpg)
+
+![](2021_3.jpg)
+
+![](2021_4.jpg)
+
+![](2021_5.jpg)
+
+![](2021_6.jpg)
 
 ## 2020
 
