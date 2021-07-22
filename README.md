@@ -28,17 +28,17 @@ for 62 digits, which I did twice :+1:.
 Took me only half an hour and a third of a bucket of streetchalk, 
 as the concrete is smooth.
 
-![](2021_1.jpg)
+![](pics/2021_1.jpg)
 
-![](2021_2.jpg)
+![](pics/2021_2.jpg)
 
-![](2021_3.jpg)
+![](pics/2021_3.jpg)
 
-![](2021_4.jpg)
+![](pics/2021_4.jpg)
 
-![](2021_5.jpg)
+![](pics/2021_5.jpg)
 
-![](2021_6.jpg)
+![](pics/2021_6.jpg)
 
 ## 2020
 
