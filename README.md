@@ -3,7 +3,7 @@
 Since 2012, I celebrate Pi Approximation Day by approximating pi 
 with streetchalk.
 
- * What: Approximate pi with street chalk
+ * What: Approximate pi with street chalk  (similar to [Pi Day](https://github.com/richelbilderbeek/pi_day))
  * When: [at sunrise](https://www.timeanddate.com/sun/sweden/uppsala),
    which is at 4:08 AM at Pi Approximation Day (that is, Juli 22nd)
  * Where: [Olof Palmes Plats, Uppsala](https://www.openstreetmap.org/search?query=pi%2C%20uppsala#map=19/59.85850/17.64579),
