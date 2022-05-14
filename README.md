@@ -6,8 +6,8 @@ with streetchalk.
  * What: Approximate pi with street chalk  (similar to [Pi Day](https://github.com/richelbilderbeek/pi_day))
  * When: [at sunrise](https://www.timeanddate.com/sun/sweden/uppsala),
    which is at 4:08 AM at Pi Approximation Day (that is, Juli 22nd)
- * Where: [Olof Palmes Plats, Uppsala](https://www.openstreetmap.org/search?query=pi%2C%20uppsala#map=19/59.85850/17.64579),
-   which is at the central station (see map below)
+ * Where: [Uppsala Slott, Uppsala](https://www.openstreetmap.org/search?query=uppsala%20slott#map=18/59.85363/17.63520),
+   which is a 10 minutes walk from the central station (see map below)
  * To bring: a box of street chalk, knee protectors are recommended
  * Costs: a box of street chalk :-)
 
@@ -18,7 +18,7 @@ which will be displayed in the status indicator here:
 2022: probably yes
 ```
 
-![Gathering location](pics/map_uppsala.png)
+![Gathering location](pics/map_uppsala_slott.png)
 
 ## 2021
 
