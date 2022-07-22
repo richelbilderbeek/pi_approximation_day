@@ -14,7 +14,7 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2022: probably yes
+2022: yes
 ```
 
 ![Uppsala](pics/map_uppsala_to_slott.png)
