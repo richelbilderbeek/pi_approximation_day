@@ -25,6 +25,35 @@ which will be displayed in the status indicator here:
 
 > The square at the Slott
 
+## 2022
+
+I celebrated this time with BE and Ix. We did 200 digits.
+
+![](pics/2022/1_cropped.jpg)
+
+![](pics/2022/1.jpg)
+
+![](pics/2022/2.jpeg)
+
+![](pics/2022/3.jpeg)
+
+![](pics/2022/4.jpeg)
+
+![](pics/2022/5.jpeg)
+
+![](pics/2022/6_cropped.jpeg)
+
+![](pics/2022/6.jpeg)
+
+![](pics/2022/7.jpg)
+
+![](pics/2022/opt-opt-20220722_062625.jpg)
+
+![](pics/2022/opt-opt-20220722_064043.jpg)
+
+![](pics/2022/there.jpeg)
+
+
 ## 2021
 
 I celebrated it alone this year, for the first time in Uppsala, 
