@@ -253,3 +253,7 @@ Or read out the text file:
 ```
 cat pi.txt | espeak -s 10 -g 10
 ```
+
+## QR code for this website
+
+![](pics/bit.ly_pad_uppsala.png)
