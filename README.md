@@ -14,7 +14,7 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2023: yes
+2023: probably yes
 ```
 
 ![Uppsala](pics/map_uppsala_to_slott.png)
@@ -257,3 +257,7 @@ cat pi.txt | espeak -s 10 -g 10
 ## QR code for this website
 
 ![](pics/bit.ly_pad_uppsala.png)
+
+## Links
+
+ * [2023 Facebook event](https://fb.me/e/2Hd3REfys)
