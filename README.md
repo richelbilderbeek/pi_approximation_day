@@ -7,8 +7,10 @@ with streetchalk.
  * When: Pi Approximation Day (that is, July 22nd) from 7:22 AM, then approximately one hour
  * Where: [Uppsala Slott, Uppsala](https://www.openstreetmap.org/search?query=uppsala%20slott#map=18/59.85363/17.63520),
    which is a 10 minutes walk from the central station (see map below)
- * To bring: a box of street chalk, knee protectors are recommended
- * Costs: a box of street chalk :-)
+ * To bring: 
+   * (optional) a box of street chalk
+   * (optional) knee protectors
+ * Costs: nothing :-)
 
 If rain is predicted, at 22:00 the day before, the event will be cancelled, 
 which will be displayed in the status indicator here:
