@@ -16,7 +16,7 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2023: YES!
+2024: Probably
 ```
 
 
