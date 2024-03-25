@@ -19,7 +19,6 @@ which will be displayed in the status indicator here:
 2024: Probably
 ```
 
-
 ![Uppsala](pics/map_uppsala_to_slott.png)
 
 > How to get to the Slott
@@ -27,6 +26,10 @@ which will be displayed in the status indicator here:
 ![Gathering location](pics/map_uppsala_slott.png)
 
 > The square at the Slott
+
+## 2023
+
+I celebrated alone this year, reaching 50 digits.
 
 ## 2022
 
@@ -107,7 +110,7 @@ We approximated 500 digits of pi, breaking all earlier records!
 
 ### [Sikkom](https://www.sikkom.nl)
 
- * [Sikkom news item](https://www.sikkom.nl/bier-jonkos-tag-foutje-pi-benaderingsdag-gevierd-in-noorderplantsoen/)
+ * [Sikkom news item](https://web.archive.org/web/20210928014823/https://www.sikkom.nl/bier-jonkos-tag-foutje-pi-benaderingsdag-gevierd-in-noorderplantsoen/)
 
 Photo's from the Sikkom news item:
 
@@ -120,11 +123,11 @@ Photo's from the Sikkom news item:
 ## 2017
 
 Since 2012, I celebrate Pi Approximation Day by approximating pi with streetchalk at the Noorderplantsoen Groningen. 
-In 2017 we were with six: B. S-B., C.IJ., J.K, M. S-B., P. S-B and me. We reached 247 digits behind the comma.  
+In 2017 we were with six: B. S-B., C.IJ., J.K, M. S-B., P. S-B and me. We reached 247 digits behind the comma.
 
-Our pi was filmed by the YouTube user Bhut_Trolokia, <a href="https://www.youtube.com/watch?v=zBL1f0vJxJs">view the YouTube video here</a>.
+Our pi was filmed by the YouTube user `Bhut_Trolokia`, see his video [here](https://www.youtube.com/watch?v=zBL1f0vJxJs).
 
-Out pi got mentioned in a news article by <a href="https://www.sikkom.nl/video-vreemde-227-boodschap-noorderplantsoen/">sikkom</a>.
+Out pi got mentioned in a news article by [sikkom](https://web.archive.org/web/20210928012021/https://www.sikkom.nl/video-vreemde-227-boodschap-noorderplantsoen/).
 The text in the article, however, is complete nonsense.
 
 Here are the photos, thanks to C.IJ.
