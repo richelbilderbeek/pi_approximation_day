@@ -16,7 +16,7 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2024: Probably
+No new events scheduled yet, maybe 2026?
 ```
 
 ![Uppsala](pics/map_uppsala_to_slott.png)
